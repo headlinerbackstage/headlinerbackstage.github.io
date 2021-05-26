@@ -35,6 +35,11 @@ body h1 {
   overflow: hidden;
 }
 
+ a, a:hover, a:focus, a:active a:visited{
+      text-decoration: none;
+      color: white;
+ }
+
 @media (max-width: 410px) {
   .viewport {
     width: 100%;
@@ -149,4 +154,15 @@ a:visited {
 
 a:active {
   color: #ffffff;
+}
+
+.logo img{
+  float: left;
+  position: relative;
+  margin: 0px 15px 15px 10px;
+  width: 42px;
+}
+
+.logo {
+/*  margin-top: 15px;*/
 }
