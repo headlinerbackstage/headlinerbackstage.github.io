@@ -55,10 +55,16 @@
   font-family: Helvetica;
   color: #D6D6D6;
   font-style: normal;
-  font-size: 12px;
+  font-size: 11px;
+  letter-spacing: .5px;
   padding-left: 36px;
-  margin-top: 6px;
+  margin-top: 3px;
   text-transform: uppercase;
+}
+
+.carousel-club a{
+  padding:0;
+  color: #D6D6D6;
 }
 
 .carousel-cards-container {
