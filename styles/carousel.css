@@ -122,6 +122,10 @@
     box-shadow: 0 4px 15px 0 rgba(45, 54, 65, 0.75);
 }
 
+.wip {
+  text-align: center;
+  margin-top: 200px;
+}
 
 
 /* Mobile CSS rules here*/
